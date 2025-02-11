@@ -3,6 +3,7 @@
 import React from "react";
 import { Canvas } from "@react-three/fiber";
 import Experience from "./Experience";
+import { Stats } from "@react-three/drei";
 
 export default function CanvasContainer() {
   return (
@@ -11,6 +12,7 @@ export default function CanvasContainer() {
         dpr={[1, 2]}
         camera={{ fov: 45, position: [0, 0, 5], near: 0.1, far: 1000 }}
       >
+        <Stats />
         <Experience />
       </Canvas>
     </div>

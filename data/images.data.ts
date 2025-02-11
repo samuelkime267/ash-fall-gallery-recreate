@@ -20,6 +20,130 @@ export const imagesData = [
     title: "Boat",
   },
   {
+    image: vrImg.src,
+    title: "VR",
+  },
+  {
+    image: cityImg.src,
+    title: "City",
+  },
+  {
+    image: courtImg.src,
+    title: "Court",
+  },
+  {
+    image: shoeImg.src,
+    title: "Shoe",
+  },
+  {
+    image: abstractImg.src,
+    title: "Abstract",
+  },
+  {
+    image: boatImg.src,
+    title: "Boat",
+  },
+  {
+    image: vrImg.src,
+    title: "VR",
+  },
+  {
+    image: cityImg.src,
+    title: "City",
+  },
+  {
+    image: courtImg.src,
+    title: "Court",
+  },
+  {
+    image: shoeImg.src,
+    title: "Shoe",
+  },
+  {
+    image: shoe1Img.src,
+    title: "Shoe",
+  },
+  {
+    image: textureImg.src,
+    title: "Texture",
+  },
+  {
+    image: underwaterImg.src,
+    title: "Underwater",
+  },
+  {
+    image: vrImg.src,
+    title: "VR",
+  },
+  {
+    image: womanImg.src,
+    title: "Happy lady",
+  },
+  {
+    image: woman1Img.src,
+    title: "Beautiful woman",
+  },
+  {
+    image: abstractImg.src,
+    title: "Abstract",
+  },
+  {
+    image: boatImg.src,
+    title: "Boat",
+  },
+  {
+    image: vrImg.src,
+    title: "VR",
+  },
+  {
+    image: cityImg.src,
+    title: "City",
+  },
+  {
+    image: courtImg.src,
+    title: "Court",
+  },
+  {
+    image: shoeImg.src,
+    title: "Shoe",
+  },
+  {
+    image: shoe1Img.src,
+    title: "Shoe",
+  },
+  {
+    image: textureImg.src,
+    title: "Texture",
+  },
+  {
+    image: underwaterImg.src,
+    title: "Underwater",
+  },
+  {
+    image: vrImg.src,
+    title: "VR",
+  },
+  {
+    image: womanImg.src,
+    title: "Happy lady",
+  },
+  {
+    image: woman1Img.src,
+    title: "Beautiful woman",
+  },
+  {
+    image: abstractImg.src,
+    title: "Abstract",
+  },
+  {
+    image: boatImg.src,
+    title: "Boat",
+  },
+  {
+    image: vrImg.src,
+    title: "VR",
+  },
+  {
     image: cityImg.src,
     title: "City",
   },
